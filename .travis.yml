@@ -9,4 +9,4 @@ before_install:
 install: true
 
 script:
-  - ant deploy-zimlet
+  - ant package-zimlet
